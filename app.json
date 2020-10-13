@@ -1,7 +1,15 @@
 {
   "expo": {
-    "name": "app1",
-    "slug": "app1",
+    "name": "Productivity",
+    "slug": "instafood-recipes-app",
+    "description": ".",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -19,8 +27,6 @@
     "ios": {
       "supportsTablet": true
     },
-    "web": {
-      "favicon": "./assets/favicon.png"
-    }
+    "githubUrl": "https://github.com/himanshuvermaa"
   }
 }
